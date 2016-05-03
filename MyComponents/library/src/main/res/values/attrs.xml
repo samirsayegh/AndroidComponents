@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageTextValue">
+        <attr name="image_src" format="integer" />
+        <attr name="image_text_distance" format="dimension" />
+    </declare-styleable>
+</resources>
